@@ -1,0 +1,17 @@
+.circle {
+  border: 1px white solid;
+  padding: 10px;
+  border-radius: 50%;
+  width: 37.33px;
+  height: 37.33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icons {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  font-size: 28px;
+}

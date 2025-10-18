@@ -1,0 +1,15 @@
+.mt86 {
+  margin-top: 86px;
+}
+.minH {
+  min-height: calc(-106px + 100vh);
+}
+.bg {
+  background-color: #fff;
+}
+.textColor {
+  color: #fff;
+}
+.w250 {
+  width: 250px;
+}
