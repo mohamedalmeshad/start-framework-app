@@ -13,11 +13,11 @@ export default function NotFound() {
             <h2
               className={`section-title text-uppercase pt-5 ${style.textColor} text-center mb-3`}
             >
-              Not Found 404
+              404 | Page Not Found
             </h2>
             <div className="text-center">
               <Link className="btn btn-green text-white bg-green" to={"/"}>
-                404 | Page Not Found
+                Return to Home Page
               </Link>
             </div>
           </div>
